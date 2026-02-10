@@ -54,6 +54,9 @@ https://github.com/user-attachments/assets/d3f769bc-6400-4bbe-97ca-39dec5539562
 
 ---
 
+<img width="1835" height="738" alt="Dashboard" src="https://github.com/user-attachments/assets/82d700cb-3258-4cb0-9e70-099b7abfb5a0" />
+
+
 ## 🔍 What the Data Shows
 - Strong overall sales performance with uneven profitability
 - High sales do **NOT always translate into high profit**
