@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/d3f769bc-6400-4bbe-97ca-39dec5539562
 ---
 
 ## 🎯 Business Question
-**How is the Superstore performing in terms of sales and profitability, and which categories, segments, and pricing strategies drive or hurt performance?**
+**How is the Superstore performing in terms of sales and profitability, and which categories and segments drive or hurt performance?**
 
 ---
 
