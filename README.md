@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/d3f769bc-6400-4bbe-97ca-39dec5539562
 ## 🛠 Tools & Technologies
 - **Microsoft Excel**
   - **Power Query (ETL & data cleaning)**
-  - **Power Pivot (data modeling)**
+  - **Power Pivot (Data modeling)**
   - **DAX Measures**
   - **PivotTables & PivotCharts**
   - **Slicers (Sub-Category, Ship Mode, Year)**
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/d3f769bc-6400-4bbe-97ca-39dec5539562
 
 ## 🔍 What the Data Shows
 - Strong overall sales performance with uneven profitability
-- High sales do **not always translate into high profit**
+- High sales do **NOT always translate into high profit**
 - Discounts significantly impact margins
 - Performance varies widely across categories and customer segments
 
