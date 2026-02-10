@@ -6,6 +6,12 @@ The analysis was conducted entirely in **Microsoft Excel** using **Power Query, 
 
 The main objective is to move beyond raw sales figures and identify **what truly drives profit**.
 
+
+
+https://github.com/user-attachments/assets/d3f769bc-6400-4bbe-97ca-39dec5539562
+
+
+
 ---
 
 ## 🎯 Business Question
@@ -30,21 +36,21 @@ The main objective is to move beyond raw sales figures and identify **what truly
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel**
-  - Power Query (ETL & data cleaning)
-  - Power Pivot (data modeling)
-  - DAX measures
-  - PivotTables & PivotCharts
-  - Slicers (Category, Sub-Category, Ship Mode, Year)
+  - **Power Query (ETL & data cleaning)**
+  - **Power Pivot (data modeling)**
+  - **DAX Measures**
+  - **PivotTables & PivotCharts**
+  - **Slicers (Sub-Category, Ship Mode, Year)**
 
 ---
 
 ## 📈 Key KPIs
-- **Total Sales:** $2,297,201  
-- **Total Profit:** $286,397  
-- **Profit Margin:** 12%  
-- **Average Order Value:** $459  
-- **Profit per Order:** $57  
-- **Average Discount:** 16%
+- **Total Sales**
+- **Total Profit** 
+- **Profit Margin**
+- **Average Order Value** 
+- **Profit per Order**
+- **Average Discount**
 
 ---
 
